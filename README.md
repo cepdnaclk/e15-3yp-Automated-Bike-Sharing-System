@@ -1,57 +1,59 @@
-___
-# DELETE THIS INSTRUCTIONS AND ADD AN INTRODUCTION ABOUT YOUR PROJECT
-___
+---
+layout: home
+permalink: index.html
 
-# eYY-3yp-project-template
+# Please update this with your repository name and title
+repository-name: e15-3yp-Automated-Bike-Sharing-System
+title: Automated Bike Sharing System
+---
 
-This is a sample repository you can use for your Embedded Systems project. Once you followed these instructions, remove the text and add a brief introduction to here.
+[comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-### Enable GitHub Pages
+# Automated Bike Sharing System
 
-You can put the things to be shown in GitHub pages into the _docs/_ folder. Both html and md file formats are supported. You need to go to settings and enable GitHub pages and select _main_ branch and _docs_ folder from the dropdowns, as shown in the below image.
+---
 
-![image](https://user-images.githubusercontent.com/11540782/98789936-028d3600-2429-11eb-84be-aaba665fdc75.png)
+## Team
+-  E/15/179, KARUNARATNE S.M.A.K., [anandi.karunaratne@gmail.com](mailto:anandi.karunaratne@gmail.com)
+-  E/15/092, EKANAYAKE I.U., [e15092@eng.pdn.ac.lk](mailto:e15092@eng.pdn.ac.lk)
+-  E/15/325, SANKALPANA W.A.P.C., [chalanisweerarathna@gmail.com](mailto:chalanisweerarathna@gmail.com)
 
-### Special Configurations
 
-These projects will be automatically added into [https://projects.ce.pdn.ac.lk](). If you like to show more details about your project on this site, you can fill the parameters in the file, _/docs/index.json_
+---
 
-```
-{
-  "title": "This is the title of the project",
-  "team": [
-    {
-      "name": "Team Member Name 1",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    },
-    {
-      "name": "Team Member Name 2",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    },
-    {
-      "name": "Team Member Name 3",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    }
-  ],
-  "supervisors": [
-    {
-      "name": "Dr. Supervisor 1",
-      "email": "email@eng.pdn.ac.lk"
-    },
-    {
-      "name": "Supervisor 2",
-      "email": "email@eng.pdn.ac.lk"
-    }
-  ],
-  "tags": ["Web", "Embedded Systems"]
-}
-```
+## Introduction  
 
-Once you filled this _index.json_ file, please verify the syntax is correct. (You can use [this](https://jsonlint.com/) tool).
+  
 
-### Page Theme
 
-A custom theme integrated with this GitHub Page, which is based on [github.com/cepdnaclk/eYY-project-theme](https://github.com/cepdnaclk/eYY-project-theme). If you like to remove this default theme, you can remove the file, _docs/\_config.yml_ and use HTML based website.
+
+Today vehicles are a huge problem in the world, starting from the environment pollution arranging parking space causes deforestation. Moreover, people don’t have enough time to workout and to attend a gym. Therefore Today, more than 600 cities and more than 200 universities around the globe have their own bike-share systems, and more programs are starting every year. The largest systems are in China, in cities such as Hangzhou and Shanghai. In Paris, London, and Washington, D.C. highly successful systems have helped to promote cycling as a viable and valued transport option. Bike-share has taken many forms over the course of its development, from free bikes left for a community to use at will to more technologically advanced and secure systems.
+
+As the most of the universities have a wide area of land, transportation within the university causes the time to waste, accidents, congestion because of using the private vehicles, parking problems and the energy consumption related to the mobility of workers and students of the universities. The bicycle sharing programs have received increasing attention in recent years with initiatives to increase bike usage, better meet the demand of a more mobile public and lessen the environmental impacts of our transportation activities. So, the project aims to introduce automated bike sharing system to minimize the above impacts while evaluating the mobility patterns of academic campuses and assessing the energy consumption and pollutant emissions produced by the universities. This system provides the users to unlock the chosen bicycle in the substations via a mobile app and start riding, check the availability of bicycles and authorized people to track the path of rides of all users.
+
+
+
+
+### Video animations and Demonstration  
+- [Intro](data/videos/videoplayback.mp4)
+
+- [The Locking Mechanism Simulation](data/videos/Untitled_Project.avi)  
+
+- [Locking Mechanism Design Animation](data/videos/Design_of_the_lock.mp4)  
+
+- [Demonstration Video](data/videos/demo.mp4)
+
+
+
+
+
+## Links
+
+- <a href = "https://github.com/cepdnaclk/e15-3yp-Automated-Bike-Sharing-System" target = "_blank"> Project Repository </a>
+- <a href = "https://cepdnaclk.github.io/e15-3yp-Automated-Bike-Sharing-System/" target = "_blank">Project Page</a>
+- <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
+- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
+
+
+[//]: # (Please refer this to learn more about Markdown syntax)
+[//]: # (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
