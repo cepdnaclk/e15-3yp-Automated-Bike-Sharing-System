@@ -27,7 +27,7 @@ title: Automated Bike Sharing System
 
 ## Introduction  
 
-[Intro](data/videos/videoplayback.mp4)  
+[Intro](https://youtu.be/jAxNeGySm2U)  
 
 
 
@@ -71,11 +71,11 @@ Each lock in dock station contains RFID reader and lock components which are con
 
 ### Video animations and Demonstration
 
-- [The Locking Mechanism Simulation](data/videos/Untitled_Project.avi)  
+- [The Locking Mechanism Simulation](https://youtu.be/phcyKz8i7iQ)  
 
-- [Locking Mechanism Design Animation](data/videos/Design_of_the_lock.mp4)  
+- [Locking Mechanism Design Animation](https://youtu.be/VSDKW8W9EvU)  
 
-- [Demonstration Video](data/videos/demo.mp4)
+- [Demonstration Video](https://youtu.be/fSkReVzAp0A)
 
 
 
