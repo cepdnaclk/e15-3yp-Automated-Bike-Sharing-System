@@ -35,13 +35,13 @@ As the most of the universities have a wide area of land, transportation within 
 
 
 ### Video animations and Demonstration  
-- [Intro](data/videos/videoplayback.mp4)
+- [Intro](docs/data/videos/videoplayback.mp4)
 
-- [The Locking Mechanism Simulation](data/videos/Untitled_Project.avi)  
+- [The Locking Mechanism Simulation](docs/data/videos/Untitled_Project.avi)  
 
-- [Locking Mechanism Design Animation](data/videos/Design_of_the_lock.mp4)  
+- [Locking Mechanism Design Animation](docs/data/videos/Design_of_the_lock.mp4)  
 
-- [Demonstration Video](data/videos/demo.mp4)
+- [Demonstration Video](docs/data/videos/demo.mp4)
 
 
 
