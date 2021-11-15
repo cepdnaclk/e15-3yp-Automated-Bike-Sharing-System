@@ -15,7 +15,7 @@ title: Automated Bike Sharing System
 
 ## Team
 -  E/15/179, KARUNARATNE S.M.A.K., [anandi.karunaratne@gmail.com](mailto:anandi.karunaratne@gmail.com)
--  E/15/092, EKANAYAKE I.U., [e15092@eng.pdn.ac.lk](mailto:e15092@eng.pdn.ac.lk)
+-  E/15/092, EKANAYAKE I.U., [imeshuek@eng.pdn.ac.lk](mailto:imeshuek@eng.pdn.ac.lk)
 -  E/15/325, SANKALPANA W.A.P.C., [chalanisweerarathna@gmail.com](mailto:chalanisweerarathna@gmail.com)
 
 ## Table of Contents
